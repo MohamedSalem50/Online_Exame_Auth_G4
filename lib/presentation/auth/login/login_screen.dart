@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:online_exam/core/constants/app_strings.dart';
+import 'package:online_exam/presentation/utlis/resources/StringManager.dart';
 import 'package:online_exam/presentation/auth/login/cubit/login_screen_view_model.dart';
 import 'package:online_exam/presentation/auth/register/register_screen.dart';
 import 'package:online_exam/presentation/utlis/resources/color_manager.dart';

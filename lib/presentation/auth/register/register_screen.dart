@@ -5,7 +5,7 @@ import 'package:online_exam/presentation/utlis/resources/color_manager.dart';
 import 'package:online_exam/presentation/utlis/resources/custom_elevated_button.dart';
 import 'package:online_exam/presentation/utlis/resources/main_text_field.dart';
 import 'package:online_exam/presentation/utlis/resources/values_manager.dart';
-import '../../../core/constants/app_strings.dart';
+import '../../utlis/resources/StringManager.dart';
 import '../../../core/di.dart';
 import '../../utlis/dialog_utlis.dart';
 import '../login/login_screen.dart';

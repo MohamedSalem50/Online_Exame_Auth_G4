@@ -6,7 +6,7 @@ import 'package:online_exam/presentation/auth/login/login_screen.dart';
 import 'package:online_exam/presentation/auth/register/register_screen.dart';
 
 
-import 'core/constants/app_strings.dart';
+import 'presentation/utlis/resources/StringManager.dart';
 import 'core/di.dart';
 import 'presentation/forgotPassword/forgot_password_screen.dart';
 
